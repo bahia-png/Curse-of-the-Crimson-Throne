@@ -1,0 +1,1 @@
+Kevin Ma'mar é um centauro estrangeiro de certo status social, conheceu [[Rocinante]] tratando seu chifre quebrado.

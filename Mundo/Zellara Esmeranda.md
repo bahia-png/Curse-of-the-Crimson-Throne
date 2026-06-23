@@ -1,0 +1,1 @@
+Cartomante de [[Tormenta]], teve seu baralho roubado por [[Gaedren Lamm]], e seu filho morto ao tentar recupera-lo

@@ -1,0 +1,7 @@
+## Biografia
+Acolhido ainda jovem por uma caravana itinerante de jihadistas do culto do Último Suspiro, este orc foi treinado em segredo como uma lâmina sagrada dedicada a cortar a garganta da tirania. Após anos de instrução rigorosa viajando sob o disfarce de um artesão comum, foi considerado pronto para operação por seus mentores. Uma vez pronto, foi deixado em [[Korvosa]] pela caravana para se estabelecer como uma célula adormecida da organização, aguardando o momento ideal para agir contra os opressores da cidade.
+
+Vivendo há alguns anos como um barbeiro comum no bairro de [[Midland]], adotou a alcunha de Varok, e usa o ofício como a fachada para sua missão sagrada. Enquanto maneja navalhas e tesouras, cultiva a paciência e a observação, escutando as confidências e os medos que seus clientes, do povo comum a figuras mais influentes. Por trás do sorriso educado e do serviço impecável, ele mapeia a podridão de [[Korvosa]], acumulando segredos e identificando os alvos cuja morte trará a libertação do povo comum.
+
+## Leitura de Tormenta
+Recebeu uma leitura de Tormenta de [[Zellara Esmeranda|Zellara]]. Ao virar a carta, sentiu uma súbita perda de equilíbrio. "Sinto muito, a Avalanche é uma carta de desastre sem precedentes, tome cuidado com seus passos"

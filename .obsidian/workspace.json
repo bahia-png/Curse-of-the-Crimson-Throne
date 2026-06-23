@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "dc8d97ecd61e7c1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c181511cc8ea40a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd8dc439e20e2c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessões/Sessão 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sessão 1"
+            }
+          },
+          {
+            "id": "697251e4e40faf86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Varok.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Varok"
+            }
+          },
+          {
+            "id": "4031bebfce5eee10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Tormenta.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tormenta"
+            }
+          },
+          {
+            "id": "d62886b1a185c208",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac7b0694fa2e8ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "9221ca38802e3295",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbd20bc4be93d69b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c741597d340a4918",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "75790063fad134f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae6a2cf9cce9a974",
+    "type": "split",
+    "children": [
+      {
+        "id": "8da0205ff05b7085",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ed304678e4a2abc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessões/Sessão 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Sessão 1"
+            }
+          },
+          {
+            "id": "e3fe6d6d23308c99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessões/Sessão 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Sessão 1"
+            }
+          },
+          {
+            "id": "9dd1d6123a754577",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "717ad7361c0d9052",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "916a306425a52ecf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessões/Sessão 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sessão 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7bd8dc439e20e2c9",
+  "lastOpenFiles": [
+    "Mundo/Varok.md",
+    "Mundo/Tormenta.md",
+    "Sessões/Sessão 1.md",
+    "Mundo/Midland.md",
+    "Mundo/Zellara Esmeranda.md",
+    "Curse of the Crimson Throne.md",
+    "Mundo/Korvosa.md",
+    "Mundo/Sir. Rémy.md",
+    "Mundo/Fiero.md",
+    "Mundo/Grupo.md",
+    "Mundo/Gaedren Lamm.md",
+    "Mundo/Ronaldo.md",
+    "Mundo/Rocinante.md",
+    "Mundo/Bolo.md",
+    "Mundo",
+    "Mundo/Kevin.md",
+    "Sessões"
+  ]
+}

@@ -1,0 +1,1 @@
+Bairro de [[Korvosa]] próximo as [[Docas Oeste]]. [[Varok]] possui uma barbearia no bairro.
