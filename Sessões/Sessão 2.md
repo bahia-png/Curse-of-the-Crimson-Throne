@@ -1,0 +1,2 @@
+## Infiltrando a peixaria
+Após invadir a peixaria e pegar [[Faca-Fofa]] de surpresa, [[Grupo|os caras]] seguiram atrás de um dos bandidos que conseguiu fugir ao presenciar a emboscada, começando uma briga generalizada na sala ao lado. Enquanto isso, [[Zast]] conseguiu escapar das aranhas no andar inferior se tornando invisível, mas acabou indo diretamente ao encontro de [[Gaedren Lamm]] ao tentar retornar ao grupo, mas conseguiu escapar novamente graças ao feitiço de invisibilidade, se reunindo com o resto do grupo após eliminarem todos os bandidos e capangas no recinto.

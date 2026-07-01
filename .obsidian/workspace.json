@@ -8,55 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7bd8dc439e20e2c9",
+            "id": "61c759d1d2066c12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Sessões/Sessão 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessão 1"
-            }
-          },
-          {
-            "id": "697251e4e40faf86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Varok.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Varok"
-            }
-          },
-          {
-            "id": "4031bebfce5eee10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Tormenta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tormenta"
-            }
-          },
-          {
-            "id": "d62886b1a185c208",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sessão 2"
             }
           }
         ]
@@ -221,14 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bd8dc439e20e2c9",
+  "active": "61c759d1d2066c12",
   "lastOpenFiles": [
+    "Sessões/Sessão 1.md",
+    "Curse of the Crimson Throne.md",
+    "Sessões/Sessão 2.md",
+    "Mundo/pauklo.md",
     "Mundo/Varok.md",
     "Mundo/Tormenta.md",
-    "Sessões/Sessão 1.md",
     "Mundo/Midland.md",
     "Mundo/Zellara Esmeranda.md",
-    "Curse of the Crimson Throne.md",
     "Mundo/Korvosa.md",
     "Mundo/Sir. Rémy.md",
     "Mundo/Fiero.md",
