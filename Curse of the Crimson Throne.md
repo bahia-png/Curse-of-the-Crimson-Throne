@@ -8,3 +8,4 @@ Se passa na cidade de [[Korvosa]]
 
 - [[Sessão 1]]
 - [[Sessão 2]]
+- [[Sessão 3]]

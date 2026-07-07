@@ -1,0 +1,1 @@
+Barbearia que serve como fachada e base de operações para a atividades de [[Varok]]
