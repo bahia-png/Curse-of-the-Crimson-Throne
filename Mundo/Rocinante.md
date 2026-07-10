@@ -1,1 +1,27 @@
-Minotauro clérigo de Arkay
+[[Rocinante]], O Centauro clérigo de Arkay 
+
+Rocinante nasceu em uma família simples de centauros na cidade de [[Korvosa]]. Seu pai, Sleipnir, era guarda da cidade, enquanto sua mãe, Zenyyara, era uma talentosa artesã. Apesar da vida humilde, sua infância foi repleta de felicidade.
+Desde pequeno, acompanhava o pai durante as patrulhas e admirava a forma como ele tratava cada cidadão com respeito e compaixão. À noite, ajudava a mãe em suas criações artísticas, observando o cuidado e o carinho que ela dedicava a cada peça. Cresceu aprendendo que ajudar os outros era a maior demonstração de força que alguém poderia oferecer.
+Quando atingiu a idade adulta, Rocinante desejava seguir os ensinamentos dos pais, mas também sonhava em conhecer o mundo além dos muros de [[Korvosa]]. A oportunidade surgiu quando ouviu falar de uma grande guerra contra um exército de ogros liderado pelo cruel elfo Malakef. Convencido de que poderia proteger inocentes e fazer a diferença, despediu-se dos pais e partiu em busca de seu destino.
+Entretanto, a guerra estava longe de ser a aventura heroica que imaginava.
+Sob o comando de Malakef, os ogros devastavam aldeias inteiras, massacrando homens, mulheres e crianças sem qualquer piedade. Durante cinco longos anos, Rocinante testemunhou horrores que jamais conseguiria esquecer: campos cobertos por cadáveres, cidades reduzidas a cinzas e companheiros morrendo diante de seus olhos. Cada batalha consumia um pouco mais de sua esperança, deixando cicatrizes muito mais profundas do que qualquer ferimento físico.
+A guerra chegou ao fim quando um grupo de heróis derrotou Malakef, mas, para Rocinante, a paz nunca voltou completamente. Incapaz de apagar as lembranças da destruição que presenciou, fez uma promessa a si mesmo: dedicaria o restante de sua vida a salvar vidas, em vez de tirá-las.
+Durante a viagem de volta para [[Korvosa]], encontrou um grupo de clérigos de Pharasma. Fascinado pela maneira como utilizavam a magia divina para aliviar o sofrimento das pessoas, decidiu estudar seus ensinamentos. Talvez, pensava ele, pudesse compensar todas as vidas que não conseguiu salvar durante a guerra.
+O caminho não foi fácil. Muitos dos dogmas de Pharasma pareciam frios e difíceis de aceitar, mas sua determinação falou mais alto. Após meses de estudo e devoção, finalmente despertou seus primeiros poderes de cura. Pela primeira vez em muitos anos, sentiu esperança novamente. Mal podia esperar para reencontrar os pais e mostrar a pessoa que havia se tornado.
+Mas o destino tinha outros planos.
+Ao chegar a [[Korvosa]], encontrou uma cidade muito diferente daquela que havia deixado. As ruas pareciam mais sombrias, os habitantes caminhavam cabisbaixos e desconfiados, e o lugar onde sua casa costumava existir havia sido reduzido a ruínas. Um incêndio havia destruído a residência.
+Com o coração apertado, procurou o quartel da guarda em busca de respostas.
+Foi então que recebeu a notícia que mudaria sua vida para sempre.
+Seus pais haviam morrido no incêndio, dois anos antes, enquanto ele ainda lutava na guerra.
+O peso da culpa caiu sobre seus ombros. Se não tivesse partido... se tivesse voltado antes... talvez pudesse tê-los salvado.
+Ainda assim, havia algo errado. Os guardas pareciam esconder parte da verdade.
+Determinado a descobrir o que realmente aconteceu, Rocinante procurou a Igreja de Pharasma, oferecendo seus serviços como clérigo em troca de ajuda na investigação. Meses depois, a verdade finalmente veio à tona.
+Sleipnir havia descoberto uma grande rede de corrupção dentro de [[Korvosa]] e tentado denunciá-la. Como consequência, ele e Zenyyara foram assassinados, e o incêndio foi usado para encobrir o crime.
+A revelação quase consumiu Rocinante. A dor transformou-se em ódio, e o desejo de vingança cresceu dentro dele. Contudo, sempre que a raiva ameaçava dominá-lo, lembrava-se dos ensinamentos dos pais e da promessa feita após a guerra: usar sua vida para proteger os outros, e não para alimentar um ciclo interminável de violência.
+Mesmo servindo como clérigo de Pharasma, outro conflito passou a atormentá-lo. Ele jamais conseguiu aceitar completamente a ideia de que a deusa não julgava quais mortes eram justas ou injustas, preocupando-se apenas com a manutenção do ciclo natural da vida e da morte. Para alguém que havia visto tantas atrocidades, essa visão parecia cruel e distante.
+Foi nesse período que conheceu Jorge, um humano pertencente a uma vertente da igreja que venerava Arkay, o deus da cura e do equilíbrio entre a vida e a morte. Jorge apresentou uma interpretação diferente da fé, baseada na compaixão, no descanso dos mortos e na proteção dos vivos.
+Pela primeira vez desde o fim da guerra, Rocinante encontrou uma filosofia capaz de trazer paz ao seu coração. Aos poucos, passou a seguir os ensinamentos de Arkay, encontrando um propósito que finalmente conciliava sua fé com seus próprios valores.
+Algum tempo depois, enquanto caminhava por [[Korvosa]], ouviu rumores de que uma comunidade de ratfolk que vivia nos esgotos havia sido brutalmente atacada por um maníaco. Sem hesitar, correu para ajudar os sobreviventes.
+Foi lá que conheceu [[Sir. Rémy]], o autoproclamado Rei dos Esgotos.
+Durante a conversa, Rocinante percebeu que aquele ataque talvez estivesse ligado à mesma conspiração responsável pela morte de seus pais. Convencido de que aquela era a oportunidade de descobrir toda a verdade e impedir que outras pessoas sofressem o mesmo destino, decidiu unir forças com Rémy.
+Agora, guiado pelos ensinamentos de Arkay, Rocinante segue seu caminho determinado a curar aqueles que puder, proteger os inocentes e, finalmente, trazer justiça aos responsáveis pela tragédia que destruiu sua família.

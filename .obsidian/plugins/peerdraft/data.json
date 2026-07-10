@@ -1,0 +1,172 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "Bahia",
+  "root": "",
+  "plan": {
+    "type": "Pro Trial",
+    "email": "atchocor@gmail.com"
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.22.2",
+  "serverShares": {
+    "files": [
+      [
+        "Curse of the Crimson Throne.md",
+        {
+          "shareId": "46cfeb24-1b48-4e92-9288-6f51c35ac076",
+          "persistenceId": "ded3cb4c-cd3f-4780-9207-03896dac2290"
+        }
+      ],
+      [
+        "Mundo/Rocinante.md",
+        {
+          "shareId": "74115e90-3749-4b58-8435-eaf1d077ee7d",
+          "persistenceId": "f3c85802-58c6-4d70-8846-6168ec075bfd"
+        }
+      ],
+      [
+        "Sessões/Sessão 4.md",
+        {
+          "shareId": "2781987f-d859-42f9-a62d-23fd537c160e",
+          "persistenceId": "cf54670e-dbb5-4bff-bbbe-0d7017f78392"
+        }
+      ],
+      [
+        "Mundo/Barbearia Beiço.md",
+        {
+          "shareId": "1953d789-b40d-49e4-a716-1666f9568741",
+          "persistenceId": "076f00a2-4192-4e09-9796-ddd7aeb51636"
+        }
+      ],
+      [
+        "Mundo/Fiero.md",
+        {
+          "shareId": "12bb6d7e-e445-46ac-9e10-ff1e59fe45ff",
+          "persistenceId": "39c2b157-e16d-4c1d-8d92-7cb9467041b6"
+        }
+      ],
+      [
+        "Mundo/Bolo.md",
+        {
+          "shareId": "dbbd747d-e64c-4e45-b961-c768305d19e7",
+          "persistenceId": "a20aea2f-7836-4797-9b16-bf185d4220b3"
+        }
+      ],
+      [
+        "Mundo/Gaedren Lamm.md",
+        {
+          "shareId": "b795891b-4e5d-49c4-a606-f5e20d6a1ff0",
+          "persistenceId": "f7c45305-071e-40da-b89d-334ecab46585"
+        }
+      ],
+      [
+        "Mundo/Grupo.md",
+        {
+          "shareId": "f77dacb9-3623-4580-b0fd-820c2c2492a7",
+          "persistenceId": "ac9d7959-6af1-4c8b-b1ad-4fa929bfd4a9"
+        }
+      ],
+      [
+        "Mundo/Ronaldo.md",
+        {
+          "shareId": "da4603c7-a1d3-4ecc-838d-00428a99d8c0",
+          "persistenceId": "d2920268-5406-4d45-8f2b-750a362b1cc0"
+        }
+      ],
+      [
+        "Mundo/Kevin.md",
+        {
+          "shareId": "2d204284-4c7f-4462-ade8-e9d369b7edf3",
+          "persistenceId": "90553b9d-aee4-4c60-aaea-bafbeca4f76d"
+        }
+      ],
+      [
+        "Mundo/Sir. Rémy.md",
+        {
+          "shareId": "b8c5938d-6e9e-46e4-beab-8f33f7eb226a",
+          "persistenceId": "189fbc5d-10dc-466d-b5aa-c071f353d958"
+        }
+      ],
+      [
+        "Mundo/Midland.md",
+        {
+          "shareId": "f1e924cf-39f7-45b1-8dbd-b8f7947629f2",
+          "persistenceId": "26c247fa-300f-4a34-aa73-4642c399acdb"
+        }
+      ],
+      [
+        "Mundo/Korvosa.md",
+        {
+          "shareId": "7603d616-3a91-410c-bc6b-6057a03bcde5",
+          "persistenceId": "359bfc24-1fd2-4db1-a460-a3b0207cfc6d"
+        }
+      ],
+      [
+        "Mundo/Tormenta.md",
+        {
+          "shareId": "ba46ebf4-4943-441f-867f-989fd85cc3c9",
+          "persistenceId": "5e5bda18-090f-4b3b-815b-82be0a26b7d2"
+        }
+      ],
+      [
+        "Mundo/Zast.md",
+        {
+          "shareId": "52e150e3-9f9c-4414-897a-d0f2f815efec",
+          "persistenceId": "f998319f-b56c-469e-889e-99715f17f9b3"
+        }
+      ],
+      [
+        "Mundo/Varok.md",
+        {
+          "shareId": "3b1bd3de-f8d5-4851-9923-6b61c3adb473",
+          "persistenceId": "fa7e56ce-3765-4b53-a310-882478eab93a"
+        }
+      ],
+      [
+        "Mundo/Zellara Esmeranda.md",
+        {
+          "shareId": "c05c9474-86b1-4553-b5cb-ae23a53b3e32",
+          "persistenceId": "f55d7a62-2eeb-42ae-b336-b03dd8793376"
+        }
+      ],
+      [
+        "Sessões/Sessão 3.md",
+        {
+          "shareId": "4f03c2e6-ced9-4979-82aa-92f4d950d49b",
+          "persistenceId": "4dfc9579-7c3c-4552-851f-6f36328849e6"
+        }
+      ],
+      [
+        "Sessões/Sessão 1.md",
+        {
+          "shareId": "3caf0459-7dfc-48af-989f-b280d5d08dec",
+          "persistenceId": "dcc36c64-2d1a-4913-8b1c-17b69b47ce62"
+        }
+      ],
+      [
+        "Sessões/Sessão 2.md",
+        {
+          "shareId": "ea6185b0-d1c5-4b99-8e31-3fde752d430f",
+          "persistenceId": "ca8fa345-76b8-45d8-a125-a2745719c633"
+        }
+      ]
+    ],
+    "folders": [
+      [
+        "/",
+        {
+          "shareId": "4ca6fc9d-0103-4c74-b953-2e7be4e7bb55",
+          "persistenceId": "1f0c47ea-14be-4c8c-8923-e1d720e16f46"
+        }
+      ]
+    ]
+  },
+  "oid": "6679b51deeb1006a"
+}
