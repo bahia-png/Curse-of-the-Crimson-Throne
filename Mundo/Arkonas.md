@@ -1,0 +1,1 @@
+Família nobre e muito antiga de [[Korvosa]], tem uma boa reputação com a população mais pobre.

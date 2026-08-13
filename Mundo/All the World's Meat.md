@@ -1,0 +1,1 @@
+Um açougue entregando carne de graça meio ao caos de korvosa

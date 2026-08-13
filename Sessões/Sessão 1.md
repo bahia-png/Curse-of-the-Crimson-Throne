@@ -1,5 +1,5 @@
 ## Chamado misterioso
-Separadamente, cada um do [[Grupo]] recebeu uma carta anônima, informando que sabia de suas inimizades com [[Gaedren Lamm]], e os convocando para encontrar [[Zellara Esmeranda]] na [[Rua Lancet]].
+Separadamente, cada um do [[Os Homens]] recebeu uma carta anônima, informando que sabia de suas inimizades com [[Gaedren Lamm]], e os convocando para encontrar [[Zellara Esmeranda]] na [[Rua Lancet]].
 [[Sir. Rémy]] e [[Rocinante]] são os primeiros a chegar, e notam imediatamente um cheiro forte de incenso permeando o lugar. Logo em seguida, chegam [[Zast]] e [[Fiero]], o primeiro chamando particularmente a atenção de [[Rocinante]] por sua aura sobrenatural. Por fim, chega [[Varok]] e todos eles se reúnem dentro da casa. Pela porta da frente, entra uma mulher elegante, se identificando como [[Zellara Esmeranda| Zellara]], revelando ter informações sobre [[Gaedren Lamm]], e que suas cartas a teriam revelado que cada um de nós possui um motivo para caça-lo. Também ofereceu uma leitura de [[Tormenta]] a todos presentes, revelando presságios de seus futuros.
 Juntando as informações de cada um, descobrimos que um dos capangas de [[Gaedren Lamm|Gaedren]] possui uma loja de peixes em [[Midland]], não longe da barbearia de [[Varok]].
 ## A Loja de Peixes

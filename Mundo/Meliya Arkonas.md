@@ -1,0 +1,1 @@
+Filha da família [[Arkonas]], proeminente família de [[Korvosa]], manipulou [[Vankasterkin]] para recrutar lacaios com para sua causa que estavam assassinando pessoas e adulterando a carne distribuída à população

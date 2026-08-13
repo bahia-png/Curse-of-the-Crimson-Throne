@@ -1,0 +1,6 @@
+aliases: [Grupo]
+- [[Sir. Rémy]]
+- [[Varok]]
+- [[Fiero]]
+- [[Rocinante]]
+- [[Zast]]

@@ -1,5 +1,0 @@
-- [[Sir. Rémy]]
-- [[Varok]]
-- [[Fiero]]
-- [[Rocinante]]
-- [[Zast]]

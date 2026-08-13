@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61c759d1d2066c12",
+            "id": "582719cb5f07a6c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mundo/Zast.md",
+                "file": "Sessões/Sessão 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zast"
-            }
-          },
-          {
-            "id": "af17037295a5dd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mundo/Sorryy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorryy"
-            }
-          },
-          {
-            "id": "c2f5c34335e70104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of the Crimson Throne.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curse of the Crimson Throne"
+              "title": "Sessão 6"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -123,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Sessões/Sessão 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sessão 1"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +115,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Sessões/Sessão 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sessão 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -185,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessões/Sessão 1.md",
+                "file": "Sessões/Sessão 6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sessão 1"
+              "title": "Outline"
             }
           },
           {
@@ -205,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -223,36 +196,38 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "f4516cb12266aba7",
+  "active": "582719cb5f07a6c5",
   "lastOpenFiles": [
-    "Mundo/Untitled.md",
-    "Curse of the Crimson Throne.md",
+    "Mundo/Vankasterkin.md",
+    "Sessões/Sessão 6.md",
+    "Mundo/Arkonas.md",
+    "Mundo/Meliya Arkonas.md",
     "Mundo/Untitled.base",
-    "Mundo/Bolo.md",
-    "Mundo/Sorryy.md",
-    "Sessões/Sessão 4.md",
-    "Mundo/Ronaldo.md",
-    "Mundo/eseeutentaragr.md",
-    "Mundo/oiiiputa.md",
-    "Mundo/Sir. Rémy.md",
-    "Sessões/Sessão 3.md",
+    "Mundo/Untitled.canvas",
+    "Curse of the Crimson Throne.md",
+    "Mundo/Trinia Sabor.md",
+    "Sessões/Sessão 1.md",
     "Sessões/Sessão 2.md",
-    "_peerdraft_team_folder_hb2ebh/Sessões/Sessão 4.md",
+    "Sessões/Sessão 3.md",
+    "Mundo/Van Caster Keen.md",
+    "Sessões/Sessão 4.md",
+    "Mundo/Varok.md",
+    "Mundo/All the World's Meat.md",
+    "Sessões/Sessão 5.md",
+    "Mundo/nome que linka.md",
+    "Mundo/Os Homens.md",
+    "Mundo/Ronaldo.md",
+    "Mundo/Grupo.md",
+    "Mundo/Sir. Rémy.md",
+    "Mundo/Abridor de corpos.md",
+    "Mundo/Vrog.md",
+    "Mundo/Zast.md",
+    "Mundo/Barbearia Beiço.md",
+    "Mundo/~syncthing~Zast.md.tmp",
+    "Mundo/Untitled.md",
+    "Mundo/Bolo.md",
     "_peerdraft_team_folder_hb2ebh/Sessões",
     "_peerdraft_team_folder_hb2ebh",
-    "Mundo/Rocinante.md",
-    "Untitled.md",
-    "Mundo/Korvosa.md",
-    "Sessões/Sessão 4_ej3hhi.md",
-    "Mundo/_peerdraft_session_eb8e9cf9-0c8b-4db1-a2d6-d57101126008_ajb6i4.md",
-    "Sessões/Untitled.md",
-    "Sessões/Sessão 4_ej3hhi_3gg96b.md",
-    "Mundo/Kevin.md",
-    "Mundo/Barbearia Beiço.md",
-    "Mundo/Zast.md",
-    "Mundo/Varok.md",
-    "Mundo/Zellara Esmeranda.md",
-    "Mundo/Tormenta.md",
     "Mundo",
     "Sessões"
   ]

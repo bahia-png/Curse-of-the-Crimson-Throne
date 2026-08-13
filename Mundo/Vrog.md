@@ -1,0 +1,1 @@
+Apreciador do [[Mercado de Korvosa]]; Um pouco distimico tristinho

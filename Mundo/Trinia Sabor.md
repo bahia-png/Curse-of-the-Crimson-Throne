@@ -1,0 +1,1 @@
+Pintora famosa em [[Korvosa]] por ter pintado o retrato do rei.
