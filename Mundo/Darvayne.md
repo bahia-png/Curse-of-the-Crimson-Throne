@@ -1,0 +1,1 @@
+Embaixador do império (insira o nome) que está em [[Korvosa]] conspirando contra sua soberania. Frequenta a [[Doca das Enguias]].

@@ -1,0 +1,1 @@
+"Casa de vícios" de [[Korvosa]], gerenciada por [[Devargo]]. Protegida pelo governo por conta do alto tributo pago sempre em dia.

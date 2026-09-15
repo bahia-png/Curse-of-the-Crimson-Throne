@@ -20,6 +20,6 @@ O [[Os Homens]], agora quase completo, se direciona ao [[Castelo Korvosa]] para 
 
 Na sala do trono, a rainha aceita o broche, agradece [[Os Homens]], e os direciona para a Guarda da cidade na Citadela Volshyenek (G10), que está dividida, dada as circunstâncias.
 
-Na citadela, [[Os Homens]] são recebidos pela sargenta [[Crescida Croft]] e são enviados em busca de [[Vankasterkin]].
+Na citadela, [[Os Homens]] são recebidos pela sargenta [[Cressida Croft]] e são enviados em busca de [[Vankasterkin]].
 
 encontramos o [[Amin Jalento]] e salvamos eles de bandidos do dojo do [[Fiero]]

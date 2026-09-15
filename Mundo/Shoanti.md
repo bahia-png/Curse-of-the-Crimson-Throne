@@ -1,0 +1,1 @@
+Homens-rato residentes dos [[Pântanos Subterrâneos]] de [[Korvosa]]

@@ -1,0 +1,1 @@
+Rainha de Korvosa, viúva do rei. Parece ter rolo com a [[Sabina]]

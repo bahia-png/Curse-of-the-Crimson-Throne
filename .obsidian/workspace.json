@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "c181511cc8ea40a0",
+        "id": "346faf04fef3b7f3",
         "type": "tabs",
         "children": [
           {
-            "id": "582719cb5f07a6c5",
+            "id": "b5a592451db87cef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessões/Sessão 6.md",
+                "file": "Sessões/Sessão 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sessão 6"
+              "title": "Sessão 10"
+            }
+          },
+          {
+            "id": "9503abbdc9dfc60d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mundo/Abridor de corpos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abridor de corpos"
+            }
+          },
+          {
+            "id": "3bc9782bfbc0c48d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessões/Sessão 6.md",
+                "file": "Sessões/Sessão 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -166,16 +190,6 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "f4516cb12266aba7",
-            "type": "leaf",
-            "state": {
-              "type": "peerdraft-share-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Your Peerdraft Shares"
-            }
           }
         ],
         "currentTab": 1
@@ -192,40 +206,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "peerdraft:Show my Peerdraft Shares": false
+      "bases:Create new base": false
     }
   },
-  "active": "582719cb5f07a6c5",
+  "active": "b5a592451db87cef",
   "lastOpenFiles": [
-    "Mundo/Vankasterkin.md",
-    "Sessões/Sessão 6.md",
-    "Mundo/Arkonas.md",
-    "Mundo/Meliya Arkonas.md",
-    "Mundo/Untitled.base",
-    "Mundo/Untitled.canvas",
-    "Curse of the Crimson Throne.md",
-    "Mundo/Trinia Sabor.md",
-    "Sessões/Sessão 1.md",
-    "Sessões/Sessão 2.md",
-    "Sessões/Sessão 3.md",
-    "Mundo/Van Caster Keen.md",
-    "Sessões/Sessão 4.md",
-    "Mundo/Varok.md",
-    "Mundo/All the World's Meat.md",
-    "Sessões/Sessão 5.md",
-    "Mundo/nome que linka.md",
-    "Mundo/Os Homens.md",
-    "Mundo/Ronaldo.md",
-    "Mundo/Grupo.md",
-    "Mundo/Sir. Rémy.md",
     "Mundo/Abridor de corpos.md",
-    "Mundo/Vrog.md",
-    "Mundo/Zast.md",
-    "Mundo/Barbearia Beiço.md",
+    "Mundo/Shoanti.md",
+    "Sessões/Sessão 10.md",
+    "Sessões/Sessão 9.md",
+    "Curse of the Crimson Throne.md",
+    "Mundo/Cressida Croft.md",
+    "Mundo/Pântanos Subterrâneos.md",
+    "Mundo/Sir. Rémy.md",
+    "Mundo/Rainha Ileosa.md",
+    "Sessões/Sessão 8.md",
+    "Sessões/Sessão 7.md",
+    "Sessões/Sessão 6.md",
+    "Mundo/Van Caster Keen.md",
+    "Mundo/Crescida Croft.md",
+    "Mundo/Gaedren Lamm.md",
+    "Mundo/Grupo.md",
+    "Mundo/Sessão 7.md",
+    "Mundo/Sessão 6.md",
+    "Mundo/Untitled.canvas",
+    "Mundo/nome que linka.md",
+    "Mundo/Maralictor.md",
+    "Mundo/Devargo.md",
+    "Mundo/Vencarlo.md",
+    "Mundo/Mestre Vareta.md",
+    "Mundo/Darvayne.md",
+    "Mundo/Doca das Enguias.md",
+    "Sessões/Sessão 4.md",
+    "Mundo/Untitled.base",
     "Mundo/~syncthing~Zast.md.tmp",
-    "Mundo/Untitled.md",
-    "Mundo/Bolo.md",
     "_peerdraft_team_folder_hb2ebh/Sessões",
     "_peerdraft_team_folder_hb2ebh",
     "Mundo",
