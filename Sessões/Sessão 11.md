@@ -1,0 +1,3 @@
+## Explorando o Ossuário
+[[Os Homens]] continuam explorando o [[Ossuário]] e encontram uma passagem secreta, que os permite emboscar um grupo de [[Duero]] que estavam torturando um pequeno [[Homem-Rato]]. Eles derrotam o grupo e interrogam um sobrevivente, que revela estar trabalhando para [[Abridor de corpos|Rolth Lamn]] e [[Vreeg]], que apenas Vreeg se encontrava ali, e que o corpo de [[Gaekhen]] havia sido desmembrado e espalhado ao longo do Ossuário. 
+Ao continuar explorando, [[os Homens]] encontraram um Malboro guardando o que parecia ser a parte inferior de um cadáver. [[Varok]] tenta recuperar a parte do corpo furtivamente, mas a aberração percebe a presença do grupo e captura [[Sir. Rémy]] momentaneamente, mas todos se juntam para liberta-lo e escapam do covil.
