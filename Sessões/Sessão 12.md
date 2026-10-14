@@ -1,0 +1,3 @@
+## Procurando o resto do cadáver
+[[Os Homens]] continuam a busca pelo [[Ossuário]]. Eles entram em mais um combate com os lacaios do [[Abridor de corpos]]. [[Varok]] e [[Rocinante]] são pegos por sanguessugas e o grupo decide descansar na entrada da tumba. 
+No dia seguinte, [[os Homens]] retomaram sua busca, atravessando cautelosamente o corredor de armadilhas e atacando os lacaios do outro lado. Da sala era possível ouvir batidas de trás de uma barricada. Ao remover a barricada, foram surpreendidos por um golem de carniça, que incluia em suas partes o braço direito do corpo de [[Gaekhen]]. [[Rocinante]] acerta o monstro com fogo divino e recupera o braço.
