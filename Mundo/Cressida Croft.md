@@ -1,0 +1,1 @@
+Atual general da Guarda de [[Korvosa]], a força policial-exército da cidade.
