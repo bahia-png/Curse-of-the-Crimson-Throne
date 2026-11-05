@@ -1,0 +1,5 @@
+- [[Ozlo]], filho de [[Itzel]], se juntou aos [[Os Homens|Homens]]
+- [[Brigadeiro Timm]] - Cavaleiro Infernal que faz muitas perguntas
+- Uma advogada quer processar o [[Fiero]] e obrigar ele a matar alguém
+- [[Vencarlo]] é """"amigo"""" do [[Blackjack]]
+- Taverna chamada "[[Trots]]" e o proprietário [[Jasan Adriel]]

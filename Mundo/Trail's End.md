@@ -1,0 +1,1 @@
+Comunidade popular nas periferias de [[Korvosa]]
