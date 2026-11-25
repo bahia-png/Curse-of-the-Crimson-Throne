@@ -1,0 +1,1 @@
+Lakjin, que desconhece o céu
