@@ -11,4 +11,4 @@ Ao chegarem na taverna [[Trots]], [[Os Homens]] são recebidos por [[Jasan Adrie
 ## A sobrinha doente
 Na madrugada, [[Grau Soldado]] chega a taverna em busca de [[Rocinante]]. Ele diz que sua sobrinha [[Brienna]] aparenta ter adoecido do nada, e nenhum clérigo se dispôs a ajudar. Todos se dispõem a ir até sua casa em [[Trail's End]] para acompanhar [[Rocinante]] e investigar a situação.
 Quando chegaram, [[Tayce]], irmã de [[Grau Soldado]] e mãe da criança estava conversando com [[Ishani Dhatri]], suposto clérigo de [[Abadar]].
-[[Rocinante]] descobre que a doença era virulenta, mas também obra de uma necromancia, e havia sido conjurada na menina por alguém. Com muito esforço, ele é capaz de tratar a menina e salva-la de um destino fatal..
+[[Rocinante]] descobre que a doença se tratava do [[Véu de Sangue]], uma doença virulenta, mas também obra de uma necromancia, e havia sido conjurada na menina por alguém. Com muito esforço, ele é capaz de tratar a menina e salva-la de um destino fatal.
